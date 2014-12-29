@@ -7,13 +7,23 @@
 * Github: [marjinal1st](https://github.com/marjinal1st)
 
 
-**Hamit Türkü KAYA** - [hamit.turku.kaya@lab2023.com](mailto:hamit.turku.kaya@lab2023.com)
-* Twitter: [@hamitturkukaya](https://twitter.com/hamitturkukaya)
-* Github: [hamitturkukaya](https://github.com/hamitturkukaya)
+**İsmail AKBUDAK** - [ismail.akbudak@lab2023.com](mailto:ismail.akbudak@lab2023.com)
+* Twitter: [@isoakbudak](https://twitter.com/isoakbudak)
+* Github: [ismailakbudak](https://github.com/ismailakbudak)
 
 ## Kursun Amacı Nedir?:
 
 Python programlama dili ile iki boyutlu oyun programlamaya giriş yapmak.
+
+## Beklenen Katılımcı Kitlesi Nedir?
+
+
+* Öncelikle oyun oynamayı seven
+* Özgür yazılıma meraklı olan veya bu felsefeye yönelmek isteyen
+* GNU/Linux ortamında oyun geliştirmeye meraklı olan
+* Python programlama dili ile uğraşan
+
+herkes :)
 
 ## Hedeflenilen Kazanımlar Nelerdir?:
 
@@ -27,9 +37,12 @@ Python programlama dili ile iki boyutlu oyun programlamaya giriş yapmak.
 ## Kullanılacak Araçlar Nelerdir?:
 
 * Python programlama dili (2.7 serisi)
-* [PySFML](http://python-sfml.org/) çoklu ortam kütüphanesi
-* [PyCharm](https://www.jetbrains.com/pycharm/download/) topluluk sürümü
-* [Kenney Donation Pack](http://www.kenney.nl/assets) oyun içerikleri (Creative Commons Zero lisanslı, tüm öğrencilere kursta dağıtılacaktır.)
+* PySFML çoklu ortam kütüphanesi
+* PyCharm topluluk sürümü
+* Kenney Donation Pack oyun içerikleri (Creative Commons Zero lisanslı, tüm öğrencilere kursta dağıtılacaktır.)
+* Buna ek olarak, her kursiyerin kendi dizüstü bilgisayarını getirmesi gerekmektedir.
+
+**Not:** Zorunlu olmamakla beraber, eğer XInput ve/veya Direct Input destekli bir gamepad'iniz (oyun kolu) varsa, getirin. Bu sayede girdi cihazlarını kontrol ederken, gamepad'inizi de denemiş olursunuz. Ek olarak bunun bahanesi ile ders aralarında Street Fighter da oynarız :)
 
 ## Başvuru Şartları Nelerdir?:
 
@@ -82,3 +95,7 @@ Python programlama dili ile iki boyutlu oyun programlamaya giriş yapmak.
 * Kursun genel amacı, 2D oyun programlamaya giriş yapmaktır. 4 günün sonunda oyun programlamayla ilgili her şeyi öğrenmiş olacağınız bir kurs olmayacak bu.
 * **Mümkünse** bilgisayarınıza herhangi bir GNU/Linux dağıtımı (tercihen Ubuntu 14.04) kurup hazırlanın. Zira bu kütüphanenin (Python SFML), Windows ve OSX sürümlerinin kurulması sıkıntılı olabiliyor.
 * PyCharm bütünleşik geliştirme ortamının (IDE) kullanılması zorunlu değildir. Bildiğiniz herhangi bir IDE veya metin editörünü kullanabilirsiniz, fakat olası bir editör sorununda bildiğimiz bir şeye müdahale etmek işleri kolaylaştıracaktır.
+
+Kontenjanın üstünde başvuru olması halinde, mini sınav-anket de olacak şekilde, ön elemeler yapılacaktır. Yani kontenjan aşılmaz ise başvuran herkes, aşılır ise ön elemelerde seçilenler kursa alınacaktır.
+
+Kurs ortamı için gerekli donanımlar/yapılar: projeksiyon cihazı, azami 30 kişiye yetecek sayıda priz çoklayıcıları ve internet bağlantısı.
