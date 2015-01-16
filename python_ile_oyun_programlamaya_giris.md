@@ -36,9 +36,9 @@ herkes :)
 
 ## Kullanılacak Araçlar Nelerdir?:
 
-* Python programlama dili (2.7 serisi)
-* PySFML çoklu ortam kütüphanesi
-* PyCharm topluluk sürümü
+* [Python](https://www.python.org/downloads/) programlama dili (2.7 serisi)
+* [PySFML](http://python-sfml.org/download.html) çoklu ortam kütüphanesi
+* [PyCharm](https://www.jetbrains.com/pycharm/download/) topluluk sürümü
 * Kenney Donation Pack oyun içerikleri (Creative Commons Zero lisanslı, tüm öğrencilere kursta dağıtılacaktır.)
 * Buna ek olarak, her kursiyerin kendi dizüstü bilgisayarını getirmesi gerekmektedir.
 
@@ -53,7 +53,7 @@ herkes :)
 ## Katılmadan Önce Neler Yapılmalıdır?:
 
 * Python 2.7 kurulması. (Windows işletim sistemi kullanacak olanlar, kurduktan sonra PATH ayarlarını mutlaka yapmalı.)
-* PySFML kütüphanesinin kurulması. (http://python-sfml.org/download.html)
+* PySFML kütüphanesinin kurulması.
 * PyCharm bütünleşik geliştirme ortamının kurulması. Topluluk sürümü (Community Edition) kullanılacaktır.
 * Verilecek olan örnek kodların çalıştırılarak, geliştirme ortamının tamamıyla hazır olduğundan emin olunması.
 
